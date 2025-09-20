@@ -1,0 +1,6 @@
+﻿namespace GitTestProject.Classes;
+
+public class Admin
+{
+    public int Id { get; set; }
+}
